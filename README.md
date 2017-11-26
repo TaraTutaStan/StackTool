@@ -1,4 +1,4 @@
-Tool for Stack Exchange Tutorial application
+Tool Stack Exchange Tutorial application
 ==============
 
 To compile the entire project, run "mvn install".
